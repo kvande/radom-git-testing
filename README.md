@@ -1,2 +1,2 @@
-# radom-git-testing
+# random-git-testing
 Yepp, it is some random git testing
